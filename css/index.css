@@ -1,0 +1,47 @@
+/*
+	Author : Ali Can Kustemur
+	File   : login/css/index.css
+	Date   : 29.06.2015
+	P.Name : Login Page
+*/
+table{
+		border:1px outset black; 
+		border-width:5px;
+		border-radius:5px;
+		padding:10px;
+		background-color:lightyellow;
+		font-family:Arial;
+		font-size:15px;
+}
+select{
+	width:130px;
+}
+td{
+	padding:6px;
+}
+.message{
+	background-color:lightgreen;
+	color:red;
+	font-style:italic;
+	font-weight:bold;
+	width:250px;
+	text-align:center;
+}
+.alt_message{
+	color:blue;
+	font-style:italic;
+	width:250px;
+	
+}
+.black{
+	background-color:lightgray;
+}
+.white{
+	background-color:lightyellow;
+}
+.tags{
+	background-color:lightblue;
+}
+img {
+	cursor:pointer;
+}
