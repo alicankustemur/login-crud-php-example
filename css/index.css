@@ -12,6 +12,7 @@ table{
 		background-color:lightyellow;
 		font-family:Arial;
 		font-size:15px;
+		float:left;
 }
 select{
 	width:130px;

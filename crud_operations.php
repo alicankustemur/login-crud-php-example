@@ -95,7 +95,7 @@
 	}
 	
 	function crud_message_same_create(){
-		echo p("user_name")." adında bir kullanıcı zaten mevcut.";
+		echo p("user_name")." adlı bir kullanıcı zaten mevcut.";
 		
 	}
 	

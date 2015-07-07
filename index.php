@@ -12,7 +12,7 @@
 	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 	<link rel="stylesheet" href="css/index.css">
 	<script src="js/crud.js"></script>
-	<title>Giriş Sayfası</title>
+	<title>Login</title>
 </head>
 <body>
 <?php
